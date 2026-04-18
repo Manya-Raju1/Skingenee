@@ -24,6 +24,10 @@ How to Run
 2. Run:
    python main.py
 
+Output
+
+![UI](ui.docx)
+
 Future Improvements
 - Deploy as web app
 - Improve dataset accuracy
